@@ -31,10 +31,10 @@ R-script 'run_analysis.R' gets data from preloaded 'UCI HAR Dataset' folder and 
 
 ### Cleared dataset
 
-Object name: all_data
-Object class: data.frame
-Number of rows: 10,299
-Number of columns: 68
+Object name: all_data<br/>
+Object class: data.frame<br/>
+Number of rows: 10,299<br/>
+Number of columns: 68<br/>
 
 #### Columns descriptions
 * activity_name (factor of 6 levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) - the name of subject's activity
@@ -43,10 +43,10 @@ Number of columns: 68
 
 ### Aggregated dataset
 
-Object name: uci_har_measuremets_means.txt
-Object class: plane text file
-Number of rows: 180
-Number of columns: 68
+Object name: uci_har_measuremets_means.txt<br/>
+Object class: plane text file<br/>
+Number of rows: 180<br/>
+Number of columns: 68<br/>
 
 #### Columns descriptions
 * activity_name (factor of 6 levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) - the name of subject's activity
